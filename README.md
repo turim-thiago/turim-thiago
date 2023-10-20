@@ -1,5 +1,6 @@
 ## Hello World I'm Thiago <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
+## My old account is <h4><a href="https://github.com/turimthiago"></a></h4>
 <a href="https://www.linkedin.com/in/thiago-turim-7141739/">
   <img align="left" alt="Turim's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -13,7 +14,7 @@
 
 #### :computer: Programming languages and tools: 
 <p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=turimthiago&show_icons=true&hide_border=true" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=turim-thiago&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
