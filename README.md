@@ -1,6 +1,9 @@
 ## Hello World I'm Thiago <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-## My old account is <h4><a href="https://github.com/turimthiago"></a></h4>
+<a href="https://github.com/turimthiago">
+## <h4>Check my older Github account</h4>
+</a>
+
 <a href="https://www.linkedin.com/in/thiago-turim-7141739/">
   <img align="left" alt="Turim's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
